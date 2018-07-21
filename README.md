@@ -3,7 +3,7 @@
 
 usage: python3 Hash.py
 
-Generate your hash
+Generate your hash\n
 Hash types:
     Md5
     Sha1
