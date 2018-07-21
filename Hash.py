@@ -17,6 +17,7 @@ def main() :
     def pyGreen(skk) : print("\033[92m {}\033[00m".format(skk))
 
     if i == "00" :
+        os.system('clear')
         print("-------------------------")
         print("                         ")
         print("  Choose your hash type  ")
